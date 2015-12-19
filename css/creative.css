@@ -76,6 +76,9 @@ aside {
     padding: 0;
 }
 
+#logo{
+    color: black;
+}
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
@@ -178,7 +181,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url("http://www.megafon.az/images/news_pic/TVvbWXdJvDnu34T9b.jpg");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
